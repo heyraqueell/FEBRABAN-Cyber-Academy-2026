@@ -1,5 +1,5 @@
 
-# 📂 Módulo 01: Fundamentos da Segurança da Informação
+# 📂 Módulo 01: A Importância da Segurança da Informação
 
 ### Objetivo Principal
 Compreender os fundamentos da segurança da informação e cibernética, destacando sua importância crítica na proteção de dados e na mitigação de riscos diários para indivíduos, empresas e sociedade em um mundo altamente conectado.
