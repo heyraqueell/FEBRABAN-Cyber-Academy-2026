@@ -51,3 +51,9 @@ Compreender os fundamentos da segurança da informação e cibernética, destaca
 *   **Inteligência Artificial e Deepfake:** Caso real em que um funcionário do setor financeiro realizou transferências de **US$ 25 milhões** para fraudadores após ser enganado em uma videochamada gerada por IA que replicava com perfeição a voz e o rosto de seu CFO.
 *   **Cenário da Defesa Civil (Acesso Indevido):** Um indivíduo invadiu o sistema de alertas de emergência governamental utilizando usuário e senha fracos expostos na internet, resultando no envio de uma notificação falsa de desastre para a população. Mostra como falhas simples podem causar pânico e riscos reais.
 *   **Alvos Vulneráveis (Crianças e Idosos):** Jogos aparentemente inofensivos (como *Roblox*) servindo de base para engenharia social com crianças em chats, e criminosos disparando SMS falsos sobre a "prova de vida do INSS" para aplicar golpes financeiros em idosos.
+
+---
+
+### 📚 Materiais de Apoio
+*   [Fascículos da Cartilha de Segurança para Internet — CERT.br](https://cartilha.cert.br/fasciculos/)
+*   [Glossário de Segurança da Informação — GSI/PR](https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/glossario-de-seguranca-da-informacao-1)
