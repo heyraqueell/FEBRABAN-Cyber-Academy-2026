@@ -22,7 +22,7 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *   Fatores Críticos de Proteção: Pessoas, Processos e Tecnologia.
 *   Normas Internacionais de Gestão de Segurança (ISO 27001 vs. ISO 27002).
 
-### 📂 Módulo 03: [Nome do Próximo Módulo] — *Em breve*
+### 📂 Módulo 03: [Em breve] — *Em breve*
 *   *Conteúdo a ser adicionado conforme o progresso no curso.*
 
 ---
