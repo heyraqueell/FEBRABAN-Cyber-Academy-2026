@@ -11,15 +11,16 @@ Documentar o aprendizado teórico e prático adquirido ao longo das aulas, organ
 
 O repositório está organizado por módulos para facilitar a navegação e a revisão contínua dos conteúdos:
 
-### 📂 [Módulo 01: Fundamentos da Segurança da Informação](./Modulo-01-Fundamentos/)
-*   Introdução à Cibersegurança e o Cenário Atual de Ameaças.
-*   A Tríade CIA (Confidencialidade, Integridade e Disponibilidade).
-*   Estados da Informação (Em repouso, trânsito e uso).
-*   Modelos de Governança (Cubo de McCumber) e Normas Internacionais (ISO 27001 e ISO 27002).
-*   Glossário Técnico Base e Introdução à Gestão de Riscos.
+### 📂 [Módulo 01: A Importância da Segurança da Informação](./Modulo-01-Fundamentos/)
+*   O Cenário Atual de Ameaças e a Evolução Digital (Uso de IAs e Deepfakes).
+*   O Fator Humano e Boas Práticas de Segurança Pessoal e Corporativa.
+*   Casos Reais e Impactos (Ataques à Cadeia de Suprimentos, Infostealers).
 
-### 📂 Módulo 02: [Nome do Próximo Módulo] — *Em breve*
-*   *Conteúdo a ser adicionado conforme o progresso no curso.*
+### 📂 [Módulo 02: Pilares da Segurança da Informação](./Modulo-02-Pilares/)
+*   A Tríade CIA (Confidencialidade, Integridade e Disponibilidade) e a analogia do cofre.
+*   Os 3 Estados da Informação (Em repouso, em trânsito e em uso) e suas proteções típicas.
+*   Fatores Críticos de Proteção: Pessoas, Processos e Tecnologia.
+*   Normas Internacionais de Gestão de Segurança (ISO 27001 vs. ISO 27002).
 
 ### 📂 Módulo 03: [Nome do Próximo Módulo] — *Em breve*
 *   *Conteúdo a ser adicionado conforme o progresso no curso.*
