@@ -122,7 +122,7 @@ O processo executa as seguintes etapas estruturadas:
 7. Monitoramento e análise crítica
 
 ---
-### 📚 Materiais de Apoio Consultados
+### 📚 Materiais de Apoio
 * [Glossário de Segurança da Informação - GSI/PR](https://www.gov.br/gsi/pt-br/seguranca-da-informacao-e-cibernetica/glossario-de-seguranca-da-informacao-1)
 * [NIST Cybersecurity Glossary](https://www.nist.gov/itl/smallbusinesscyber/training/glossary)
 * [CISA NICCS Glossary](https://niccs.cisa.gov/resources/glossary)
