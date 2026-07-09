@@ -1,4 +1,4 @@
-# Aula 2: Pilares da Segurança da Informação
+# 📂 Módulo 02: Pilares da Segurança da Informação
 
 ### Objetivo Principal
 Compreender os pilares fundamentais da segurança da informação, os diferentes estados dos dados ao longo de seu ciclo de vida, os conceitos essenciais de gestão de riscos e os frameworks normativos utilizados internacionalmente.
