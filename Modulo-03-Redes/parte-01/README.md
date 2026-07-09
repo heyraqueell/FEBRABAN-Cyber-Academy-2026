@@ -116,3 +116,10 @@ Determina como os pacotes de dados são endereçados aos alvos na rede:
 * **Unicast:** A mensagem é transmitida de forma direta e exclusiva de um **único** emissor para um único destinatário específico.
 * **Multicast:** A mensagem é direcionada e entregue apenas a um **grupo** específico e selecionado de máquinas associadas àquele serviço.
 * **Broadcast:** A mensagem é replicada e transmitida para absolutamente **todos** os dispositivos e hosts conectados naquela mesma rede.
+
+---
+## Para não confundir
+Fluxo de Transmissão vs. Difusão de Dados
+
+* Fluxo refere-se ao caminho/direção (como os dados viajam).
+* Difusão refere-se ao endereçamento/destino (quem recebe os dados).
