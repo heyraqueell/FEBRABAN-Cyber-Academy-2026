@@ -65,16 +65,100 @@ Abaixo está a divisão combinada dos modelos OSI e TCP/IP, especificando o nome
 
 ---
 
-## 🔄 Fluxo de Comunicação na Rede
+## Protocolo de Internet (IP) 🌐
+O IP é o protocolo fundamental da família TCP/IP, responsável pelo endereçamento lógico na Camada de Rede.
 
-A transferência de dados entre um cliente (Web Client) e um servidor (Web Server) ocorre em duas vias complementares:
+### Características Principais
+* **Independência:** Possui as versões v4 e v6, que coexistem para garantir a conectividade global.
+* **Não Confiável:** Não garante a entrega, integridade ou correção de pacotes.
+* **Sem Conexão:** Não estabelece sessão prévia; pacotes podem seguir caminhos diferentes ou chegar duplicados.
+* **Endereçamento:** Atribui um endereço lógico ao dispositivo. Divide-se em duas partes: **Rede** e **Host**.
+* **Protocolo Auxiliar:** Precisa ser associado ao **TCP** (confiabilidade) ou **UDP** (velocidade).
+* **TTL (Time to Live) / Limite de Salto:** Indicador no cabeçalho que define por quantos roteadores um pacote pode passar antes de ser descartado, evitando *loops* infinitos.
 
-### Processo de Encapsulamento (Origem)
-O dado gerado pelo usuário na camada de Aplicação desce o modelo recebendo "envelopes" sucessivos:
-1. O Dado vira um **Segmento TCP** na camada de Transporte (ganha informações de portas).
-2. O Segmento vira um **Pacote IP** na camada de Rede (ganha endereços IP de origem e destino).
-3. O Pacote vira um **Quadro Ethernet** na camada de Link de Dados (ganha endereços MAC físicos).
-4. O Quadro é convertido em **Bits (0 e 1)** e enviado pelos cabos ou ar na camada Física.
+## 🌐 Diferenças do IPv4 e IPv6
 
-### Processo de Desencapsulamento (Destino)
-Ao chegar no host de destino, o processo é invertido: o dispositivo lê a mensagem da camada física para a aplicação, removendo os cabeçalhos de controle camada por camada ("abrindo os envelopes") até entregar o dado puro para o sistema final.
+Devido ao esgotamento do padrão original (IPv4), o IPv6 foi desenvolvido para suportar a expansão global de dispositivos.
+
+### IPv4 (Internet Protocol version 4)
+
+- **Exemplo:** `192.168.1.10`
+- **Estrutura:** Baseado em 32 bits, dividido em quatro octetos.
+- **Representação:** Utiliza valores decimais (de 0 a 255 por octeto).
+- **Capacidade:** Aproximadamente 4,3 bilhões de endereços únicos.
+- **Limitação:** O esgotamento de endereços disponíveis é o seu maior desafio, motivando a transição para o IPv6;
+
+### IPv6 (Internet Protocol version 6)
+
+- **Exemplo:** `2001:0db8:85a3:0000:0000:8a2e:0370:7334`
+- **Estrutura:** Baseado em **128** **bits.**
+- **Representação:** Utiliza valores **hexadecimais**.
+- **Capacidade:** Aproximadamente **340 undecilhões** de endereços. Essencial para o crescimento massivo de dispositivos IoT.
+- **Vantagens:** Além da vasta capacidade, oferece recursos nativos de segurança e melhor rastreabilidade.
+
+---
+
+## Protocolo ICMP (Internet Control Message Protocol)
+Atua na Camada de Rede como auxiliar do IP, sendo crucial para o diagnóstico da rede.
+
+* **Função:** Notifica erros quando roteadores ou servidores encontram problemas ao processar/entregar pacotes.
+* **Diagnóstico:** Base para ferramentas de verificação de conectividade, como **Ping** (testa se o destino é alcançável) e **Traceroute** (mede latência e caminhos).
+
+---
+
+## Distribuição de endereços IP no mundo
+<img width="656" height="403" alt="image" src="https://github.com/user-attachments/assets/78e29e54-1754-4457-9411-0e4c1536d0c8" />
+
+---
+## Camada de Transporte: TCP vs. UDP
+
+### TCP (Transmission Control Protocol)
+Focado na **confiabilidade**.
+
+* **Orientado a Conexão:** Estabelece e mantém a conexão entre cliente e servidor (*Three-Way Handshake*).
+* **Entrega Confiável:** Reenvia informações não recebidas e mantém a ordem correta.
+* **Controle de Fluxo:** Gerencia a velocidade de transmissão para evitar sobrecarga.
+* **Alto processamento:** Exige maior carga computacional devido aos mecanismos de verificação e confirmação.
+<img width="1876" height="684" alt="image" src="https://github.com/user-attachments/assets/52ef9510-95d5-46d5-a39c-60bad6ca5cb6" />
+
+
+**Three-Wat Handshake**: Processo de três etapas para estabelecer uma conexão segura e sincronizada.
+
+### UDP (User Datagram Protocol)
+Focado na **velocidade**.
+
+- **Sem conexão:** Envia dados diretamente, sem estabelecer sessão prévia.
+- **Baixa sobrecarga:** Cabeçalho simples com apenas 4 campos, exigindo pouco processamento do sistema.
+- **Sem confirmação:** Não exige confirmação de recebimento (ACK) e não realiza reenvio de pacotes perdidos.
+- **Uso típico:** Transmissões em tempo real, onde a latência é crítica (Streaming de vídeo, VoIP, jogos, Consultas DNS).
+
+---
+
+## Portas e *Sockets*
+As portas permitem que um computador execute múltiplas aplicações simultaneamente, direcionando o tráfego para o serviço correto. Um **Socket** é a combinação do Endereço IP + Porta.
+
+| **Grupo** | **Intervalo** | **Descrição** |
+| --- | --- | --- |
+| **Portas Bem Conhecidas** | 0 a 1023 | Reservadas para serviços **comuns** (Web, E-mail, Acesso Remoto). Permitem que clientes identifiquem facilmente o serviço associado necessário ao servidor. |
+| **Portas Registradas** | 1024 a 49151 | Atribuídas pela IANA a processos ou aplicativos específicos instalados pelo usuário. |
+| **Privadas / Dinâmicas** | 49152 a 65535 | Conhecidas como **portas efêmeras**. Atribuídas dinamicamente pelo sistema operacional para identificar o cliente na sessão. |
+
+---
+
+## Camada de Aplicação
+
+### DNS (Domain Name System)
+Serviço fundamental que traduz nomes de domínios (amigáveis para humanos) em endereços IP (usados pelas máquinas).
+
+### HTTP e HTTPS
+* **HTTP:** Protocolo da web. Transmite dados de forma clara (não criptografada).
+* **HTTPS:** Versão segura do HTTP, utilizando criptografia.
+* **Principais Métodos:**
+    * `GET`: Recupera arquivos/recursos.
+    * `POST`: Envia/cria novos recursos.
+    * `PUT`: Atualiza recursos existentes.
+    * `DELETE`: Remove recursos.
+
+---
+📚 Materiais de Apoio
+* Professora Nattane: https://www.youtube.com/watch?v=gMzka2WM80k&list=WL&index=21&t=740s 
