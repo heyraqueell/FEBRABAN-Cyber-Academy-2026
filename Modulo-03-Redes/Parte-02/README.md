@@ -161,4 +161,4 @@ Serviço fundamental que traduz nomes de domínios (amigáveis para humanos) em 
 
 ---
 📚 Materiais de Apoio
-* Professora Nattane: https://www.youtube.com/watch?v=gMzka2WM80k&list=WL&index=21&t=740s 
+* [Aula: Endereçamento IP explicado de um jeito que você nunca viu - Professora Nattane](https://www.youtube.com/watch?v=gMzka2WM80k)
