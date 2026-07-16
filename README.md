@@ -22,9 +22,13 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *   Fatores Críticos de Proteção: Pessoas, Processos e Tecnologia.
 *   Normas Internacionais de Gestão de Segurança (ISO 27001 vs. ISO 27002).
 
-### 📂 Módulo 03: [Em breve] — *Em breve*
-*   *Conteúdo a ser adicionado conforme o progresso no curso.*
+### 📂 [Módulo 03: Redes e Segurança](./Modulo-03-Redes/)
+*   Conceitos fundamentais, protocolos de rede (OSI/TCP-IP), encapsulamento e endereçamento IP (IPv4/IPv6).
+*   Segurança de Redes: Pessoas, Processos, Tecnologias e Infraestrutura física.
+*   Criptografia (Simétrica/Assimétrica), Hashing e Proteção de Estações (Hardening).
 
+### 📂 Módulo 04: [Em breve] — *Em breve*
+*   *Conteúdo a ser adicionado conforme o progresso no curso.*
 ---
 *Anotações mantidas por Raquel Oliveira.*
 <div> 
