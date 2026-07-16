@@ -189,4 +189,5 @@ A proteção dos endpoints vai além do antivírus tradicional, exigindo uma cam
 Recomendo o canal **[Dicionário de Informática](https://www.youtube.com/@dicionariodeinformatica)**. O conteúdo é excelente para fixação, pois explica conceitos de forma didática e resolve questões de concursos, sendo um ótimo preparador para provas.
 
 * [Zero day attacks e o ataque do dia zero](https://youtu.be/K1G4233FR4g)
+* [Zero trust model e o modelo de confiança zero](https://www.youtube.com/watch?v=S6tobeRPr2U)
 * [APRENDA de uma vez por todas o que é SIEM](https://youtu.be/tPND-5dVAU4)
