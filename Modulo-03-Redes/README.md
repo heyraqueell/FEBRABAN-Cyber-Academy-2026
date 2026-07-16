@@ -5,7 +5,7 @@ Este módulo está estruturado em três partes fundamentais para compreendermos 
 ### 📚 Conteúdo do Módulo
 * **[Parte 01 - Fundamentos](./Parte-01/README.md):** Introdução às redes, componentes, topologias e métricas de desempenho.
 * **[Parte 02 - Protocolos](./Parte-02/README.md):** Entendimento do modelo OSI/TCP/IP, encapsulamento e tipos de fluxo/difusão.
-* **[Parte 03 - Segurança de Redes](./Parte-03/README.md):** Aplicação de defesas e ativos de segurança (NÃO INICIALIZADO ❌).
+* **[Parte 03 - Segurança de Redes](./Parte-03/README.md):** Aplicação de defesas e ativos de segurança.
 
 ---
 
