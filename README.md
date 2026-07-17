@@ -27,7 +27,12 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *   Segurança de Redes: Pessoas, Processos, Tecnologias e Infraestrutura física.
 *   Criptografia (Simétrica/Assimétrica), Hashing e Proteção de Estações (Hardening).
 
-### 📂 Módulo 04: [Em breve] — *Em breve*
+### 📂 [Módulo 04: Leis, Regulamentações e Normas](./Modulo-04-Leis-Regulamentacoes-Normas/) 
+*   Governança, Conformidade e Normas Internacionais (Família ISO/IEC 27000 e NIST CSF 2.0).
+*   Ecossistema Jurídico Brasileiro, Marco Civil da Internet e LGPD (Papéis, Princípios e Gestão de Incidentes).
+*   Políticas Nacionais de Cibersegurança (PNSI, PNCiber, E-Ciber) e a importância das evidências para auditoria.
+
+### 📂 Módulo 05: [Em breve] — *Em breve*
 *   *Conteúdo a ser adicionado conforme o progresso no curso.*
 ---
 *Anotações mantidas por Raquel Oliveira.*
