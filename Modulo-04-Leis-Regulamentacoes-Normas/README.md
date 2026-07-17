@@ -1,4 +1,4 @@
-# 📂 Módulo 03: Leis, Regulamentações e Normas
+# ⚖️ Módulo 04: Leis, Regulamentações e Normas
 
 Este módulo está estruturado em três partes fundamentais para compreendermos a base da comunicação digital e como a segurança se aplica nesse ambiente.
 
