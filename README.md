@@ -37,8 +37,14 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *   Fator Humano: 98% dos ataques cibernéticos exploram o fator humano através de engenharia social, gatilhos psicológicos...
 *   A proteção deve ser baseada na tríade da segurança da informação: Confidencialidade, Integridade e Disponibilidade.
 
-### 📂 Módulo 06: [Em breve] — *Em breve*
-*  *Conteúdo a ser adicionado conforme o progresso no curso.*
+### 📂 [Módulo 06: Conscientização e Boas Práticas](./Modulo-06-Boas-Praticas/)
+*  Engenharia Social: Compreensão dos gatilhos mentais e das táticas usadas por cibercriminosos para manipular o fator humano.
+*  OSINT & Vazamentos: Técnicas de coleta de dados em fontes abertas e análise de riscos de senhas em vazamentos digitais.
+*  Higiene Digital: Melhores práticas de configuração, proteção de dispositivos e navegação segura para prevenir ataques modernos.
+
+### 📂 [[Módulo 07: Em breve]
+
+
 ---
 *Anotações mantidas por Raquel Oliveira.*
 <div> 
