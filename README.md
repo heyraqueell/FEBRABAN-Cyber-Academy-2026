@@ -32,8 +32,13 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *   Ecossistema Jurídico Brasileiro, Marco Civil da Internet e LGPD (Papéis, Princípios e Gestão de Incidentes).
 *   Políticas Nacionais de Cibersegurança (PNSI, PNCiber, E-Ciber) e a importância das evidências para auditoria.
 
-### 📂 Módulo 05: [Em breve] — *Em breve*
-*   *Conteúdo a ser adicionado conforme o progresso no curso.*
+### 📂 [Módulo 05: Fraudes e Crimes Cibernéticos 💻](./Modulo-05-Fraudes-Crimes/)
+*   Diferencia-se fraude (falha técnica ou tecnológica) de golpe (envolve participação e indução da vítima).
+*   Fator Humano: 98% dos ataques cibernéticos exploram o fator humano através de engenharia social, gatilhos psicológicos...
+*   A proteção deve ser baseada na tríade da segurança da informação: Confidencialidade, Integridade e Disponibilidade.
+
+### 📂 Módulo 06: [Em breve] — *Em breve*
+*  *Conteúdo a ser adicionado conforme o progresso no curso.*
 ---
 *Anotações mantidas por Raquel Oliveira.*
 <div> 
