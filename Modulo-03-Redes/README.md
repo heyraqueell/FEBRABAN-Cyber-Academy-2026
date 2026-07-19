@@ -27,7 +27,7 @@ A área de redes possui muitos termos técnicos que podem parecer densos à prim
 **Dica Extra:** Utilize o NotebookLM para criar um "Mapa Mental" ou uma tabela comparativa dos protocolos. Isso ajuda muito a memorizar o que cada camada do modelo OSI faz!
 
 ---
-### Em caso de dúvidas, me chame no LinkedIn:
+#### Em caso de dúvidas, me chame no LinkedIn:
 <div> 
   <a href="https://www.linkedin.com/in/heyraqueell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
