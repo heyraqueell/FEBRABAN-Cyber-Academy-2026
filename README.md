@@ -42,7 +42,12 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *  OSINT & Vazamentos: Técnicas de coleta de dados em fontes abertas e análise de riscos de senhas em vazamentos digitais.
 *  Higiene Digital: Melhores práticas de configuração, proteção de dispositivos e navegação segura para prevenir ataques modernos.
 
-### 📂 [[Módulo 07: Em breve]
+### 📂 [Módulo 07: Ataques Cibernéticos](./Modulo-07-Ataques-Ciberneticos) ☣︎
+*  Mapeamento do Ataque: Exploração do ciclo de vida de uma ameaça cibernética, detalhando cada fase, do reconhecimento inicial ao impacto final.
+*  Modelagem Estratégica: Aplicação da Cyber Kill Chain para estruturar defesas e identificar pontos críticos para interromper invasões.
+*  Inteligência e Investigação: Utilização de frameworks como MITRE ATT&CK e Diamond Model para mapear técnicas de invasores e investigar ameaças com precisão.
+
+### 📂 [Módulo 08: Em breve]
 
 
 ---
