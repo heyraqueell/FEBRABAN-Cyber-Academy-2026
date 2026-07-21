@@ -47,8 +47,8 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *  Modelagem Estratégica: Aplicação da Cyber Kill Chain para estruturar defesas e identificar pontos críticos para interromper invasões.
 *  Inteligência e Investigação: Utilização de frameworks como MITRE ATT&CK e Diamond Model para mapear técnicas de invasores e investigar ameaças com precisão.
 
-### 📂 [Módulo 08: Em breve]
-
+### 📂 [Módulo 08: Segurança Cibernética Ofensiva](./Modulo-08-Seguranca-Cibernetica-Ofensiva)
+*
 
 ---
 *Anotações mantidas por Raquel Oliveira.*
