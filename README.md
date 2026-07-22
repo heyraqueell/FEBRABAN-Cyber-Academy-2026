@@ -48,7 +48,9 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *  Inteligência e Investigação: Utilização de frameworks como MITRE ATT&CK e Diamond Model para mapear técnicas de invasores e investigar ameaças com precisão.
 
 ### 📂 [Módulo 08: Segurança Cibernética Ofensiva](./Modulo-08-Seguranca-Cibernetica-Ofensiva)
-*
+*  Abordagem voltada para antecipar ações de criminosos por meio de testes práticos, saindo do modelo puramente reativo.
+*  Diferenciação entre avaliações pontuais de vulnerabilidade (Pentests com metodologias Black, White e Grey Box) e simulações avançadas de longo prazo (Red Teaming).
+*  Mapeamento estruturado das etapas de um ataque, desde o reconhecimento inicial e varredura até a exploração e pós-exploração.
 
 ---
 *Anotações mantidas por Raquel Oliveira.*
