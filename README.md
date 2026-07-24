@@ -62,10 +62,10 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *  Implementação do Modelo das Três Linhas e aplicação de frameworks globais e normas internacionais (como ISO 31000, COSO ERM, COBIT 2019 e NIST CSF 2.0).
 *  Gestão integrada de ameaças modernas, incluindo os impactos da Inteligência Artificial em GRC e a incorporação de critérios ESG nas decisões estratégicas.
 
-### 📂 [Módulo 11: Inteligência Artificial e Segurança Cibernética]
-*
-*
-*
+### 📂 [Módulo 11: Inteligência Artificial e Segurança Cibernética](./Modulo-11-Inteligencia-Artificial)
+*  Explicação clara sobre o que é IA, suas camadas (Machine Learning, Deep Learning e IA Generativa), sua linha do tempo histórica e a distinção entre mitos e verdades.
+*  Análise de como operam os Modelos de Linguagem (LLMs), a engenharia de prompts, o contexto e os riscos associados às alucinações em diversos setores da sociedade.
+*  Foco nos novos cenários de ameaças e golpes potencializados por IA, acompanhado de regras de ouro essenciais para a privacidade e o uso seguro de dados.
 
 ---
 *Anotações mantidas por Raquel Oliveira.*
