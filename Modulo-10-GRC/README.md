@@ -2,7 +2,7 @@
 
 ### Objetivo Principal
 
-Capacitar profissionais e organizações a compreenderem a incerteza inerente aos negócios modernos, estruturando defesas, compreendendo o ciclo contínuo de riscos e utilizando frameworks globais consolidados (como ISO 31000, COSO ERM, COBIT 2019 e NIST CSF 2.0) para garantir a sobrevivência, a integridade e a resiliência das empresas em um ambiente digital e regulado em constante mutação.
+Fornecer um guia estruturado sobre Governança, Riscos e Compliance para capacitar empresas na mitigação de ameaças digitais, adoção de padrões globais e consolidação de uma cultura ética e resiliente.
 
 ---
 
