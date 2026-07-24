@@ -57,6 +57,15 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 * Ferramentas avançadas exigem bases sólidas e rotinas estruturadas.
 * A segurança baseia-se em provas, rastreabilidade e melhoria contínua.
 
+### 📂 [Módulo 10: Governança, Risco e Conformidade (GRC)](./Modulo-10-GRC)
+*  Alinhamento estratégico entre a diretoria e as operações para transformar incertezas em valor corporativo.
+*  Implementação do Modelo das Três Linhas e aplicação de frameworks globais e normas internacionais (como ISO 31000, COSO ERM, COBIT 2019 e NIST CSF 2.0).
+*  Gestão integrada de ameaças modernas, incluindo os impactos da Inteligência Artificial em GRC e a incorporação de critérios ESG nas decisões estratégicas.
+
+### 📂 [Módulo 11: Inteligência Artificial e Segurança Cibernética]
+*
+*
+*
 
 ---
 *Anotações mantidas por Raquel Oliveira.*
