@@ -1,4 +1,4 @@
-# 📂 Módulo 13: Nuvem e Segurança Cibernética
+# ☁️ Módulo 13: Nuvem e Segurança Cibernética ☁️
 
 ### Objetivo principal
 
