@@ -72,7 +72,7 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *  Testes automatizados para manter a velocidade das entregas sem comprometer a proteção.
 *  Correção precoce de falhas para evitar incidentes e custos altos em produção.
 
-### 📂 [Módulo 13: Nuvem e Segurança Cibernética](./Modulo-13-Nuvem)
+### 📂 [Módulo 13: Nuvem e Segurança Cibernética](./Modulo-13-Nuvem) ☁️
 *  Conceitos, vantagens, desafios e modelos de serviços em nuvem (IaaS, PaaS, SaaS).
 *  Principais ameaças de segurança baseadas em frameworks como CSA e MITRE ATT&CK.
 *  Mecanismos de proteção e roteiro de maturidade de segurança (AWS CAF v2).
