@@ -43,14 +43,14 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *  Higiene Digital: Melhores práticas de configuração, proteção de dispositivos e navegação segura para prevenir ataques modernos.
 
 ### 📂 [Módulo 07: Ataques Cibernéticos](./Modulo-07-Ataques-Ciberneticos) ☣︎
-*  Mapeamento do Ataque: Exploração do ciclo de vida de uma ameaça cibernética, detalhando cada fase, do reconhecimento inicial ao impacto final.
-*  Modelagem Estratégica: Aplicação da Cyber Kill Chain para estruturar defesas e identificar pontos críticos para interromper invasões.
-*  Inteligência e Investigação: Utilização de frameworks como MITRE ATT&CK e Diamond Model para mapear técnicas de invasores e investigar ameaças com precisão.
+*  Mapeamento completo desde o reconhecimento inicial até o impacto final.
+*  Aplicação da Cyber Kill Chain para interromper invasões em pontos críticos.
+*  Uso dos frameworks MITRE ATT&CK e Diamond Model para identificar técnicas de invasores.
 
 ### 📂 [Módulo 08: Segurança Cibernética Ofensiva](./Modulo-08-Seguranca-Ofensiva)
-*  Abordagem voltada para antecipar ações de criminosos por meio de testes práticos, saindo do modelo puramente reativo.
-*  Diferenciação entre avaliações pontuais de vulnerabilidade (Pentests com metodologias Black, White e Grey Box) e simulações avançadas de longo prazo (Red Teaming).
-*  Mapeamento estruturado das etapas de um ataque, desde o reconhecimento inicial e varredura até a exploração e pós-exploração.
+*  Antecipação de ações criminosas por meio de testes práticos no lugar do modelo reativo.
+*  Diferenciação entre Pentests (Black, White e Grey Box) e simulações de Red Team.
+*  Mapeamento prático do reconhecimento, varredura, exploração e pós-exploração.
 
 ### 📂 [Módulo 09: Segurança Cibernética Defensiva](./Modulo-09-Seguranca-Defensiva)
 * Arquiteturas em camadas e Zero Trust substituem a ilusão de bloqueio total.
@@ -58,14 +58,21 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 * A segurança baseia-se em provas, rastreabilidade e melhoria contínua.
 
 ### 📂 [Módulo 10: Governança, Risco e Conformidade (GRC)](./Modulo-10-GRC)
-*  Alinhamento estratégico entre a diretoria e as operações para transformar incertezas em valor corporativo.
-*  Implementação do Modelo das Três Linhas e aplicação de frameworks globais e normas internacionais (como ISO 31000, COSO ERM, COBIT 2019 e NIST CSF 2.0).
-*  Gestão integrada de ameaças modernas, incluindo os impactos da Inteligência Artificial em GRC e a incorporação de critérios ESG nas decisões estratégicas.
+*  Alinhamento Estratégico e conexão entre a diretoria e a operação para transformar riscos em valor.
+*  Aplicação do Modelo das Três Linhas e normas globais (ISO 31000, COBIT 2019, NIST CSF 2.0).
+*  Gestão de riscos integrando os impactos de Inteligência Artificial e métricas ESG.
 
 ### 📂 [Módulo 11: Inteligência Artificial e Segurança Cibernética](./Modulo-11-Inteligencia-Artificial)
-*  Explicação clara sobre o que é IA, suas camadas (Machine Learning, Deep Learning e IA Generativa), sua linha do tempo histórica e a distinção entre mitos e verdades.
-*  Análise de como operam os Modelos de Linguagem (LLMs), a engenharia de prompts, o contexto e os riscos associados às alucinações em diversos setores da sociedade.
-*  Foco nos novos cenários de ameaças e golpes potencializados por IA, acompanhado de regras de ouro essenciais para a privacidade e o uso seguro de dados.
+*  Conceitos, linha do tempo e divisão por camadas (Machine Learning, Deep Learning e IA Generativa).
+*  LLMs e Riscos: Engenharia de prompts, gestão de contexto e controle de alucinações.
+*  Identificação de novos golpes potencializados por IA e boas práticas para proteção de dados.
+
+### 📂 [Módulo 11: Desenvolvimento Seguro (DevSecOps)](./Modulo-12-DevSecOps)
+*  Integração de segurança desde o início do ciclo de desenvolvimento de software.
+*  Testes automatizados para manter a velocidade das entregas sem comprometer a proteção.
+*  Correção precoce de falhas para evitar incidentes e custos altos em produção.
+
+### 📂 [Módulo 11: Nuvem e Segurança Cibernética]
 
 ---
 *Anotações mantidas por Raquel Oliveira.*
