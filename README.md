@@ -67,12 +67,15 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *  LLMs e Riscos: Engenharia de prompts, gestão de contexto e controle de alucinações.
 *  Identificação de novos golpes potencializados por IA e boas práticas para proteção de dados.
 
-### 📂 [Módulo 11: Desenvolvimento Seguro (DevSecOps)](./Modulo-12-DevSecOps)
+### 📂 [Módulo 12: Desenvolvimento Seguro (DevSecOps)](./Modulo-12-DevSecOps)
 *  Integração de segurança desde o início do ciclo de desenvolvimento de software.
 *  Testes automatizados para manter a velocidade das entregas sem comprometer a proteção.
 *  Correção precoce de falhas para evitar incidentes e custos altos em produção.
 
-### 📂 [Módulo 11: Nuvem e Segurança Cibernética]
+### 📂 [Módulo 13: Nuvem e Segurança Cibernética](./Modulo-13-Nuvem)
+*  Conceitos, vantagens, desafios e modelos de serviços em nuvem (IaaS, PaaS, SaaS).
+*  Principais ameaças de segurança baseadas em frameworks como CSA e MITRE ATT&CK.
+*  Mecanismos de proteção e roteiro de maturidade de segurança (AWS CAF v2).
 
 ---
 *Anotações mantidas por Raquel Oliveira.*
