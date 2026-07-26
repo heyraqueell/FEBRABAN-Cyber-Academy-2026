@@ -77,6 +77,11 @@ O repositório está organizado por módulos para facilitar a navegação e a re
 *  Principais ameaças de segurança baseadas em frameworks como CSA e MITRE ATT&CK.
 *  Mecanismos de proteção e roteiro de maturidade de segurança (AWS CAF v2).
 
+### 📂 [Módulo 14: Geopolítica e Segurança Cibernética](./Modulo-14-Geopolitica) 🌍
+*  Introduz o ciberespaço como instrumento de poder estatal e a dinâmica da Zona Cinzenta.
+*  Apresenta o papel da Inteligência Artificial, drones e sistemas espaciais nas guerras modernas.
+*  Explora as vulnerabilidades operacionais e as táticas de preposicionamento em setores essenciais.
+
 ---
 *Anotações mantidas por Raquel Oliveira.*
 <div> 
